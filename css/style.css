@@ -1,0 +1,19 @@
+body {
+    text-align: center;
+    background-color: blanchedalmond;
+}
+header {
+    width: 60%;
+    background-color:darkslategrey;
+    padding: 40px;
+    text-align: left;
+    margin: 0 auto;
+}
+header h1 {
+    color: red;
+    font-size: 40px;
+}
+header p {
+    font-size: 20px;
+    color: darkgray;
+}
